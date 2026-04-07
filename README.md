@@ -29,13 +29,11 @@ Unlike prior works relying on fixed patterns, BA-Att:
 
 ---
 
-## 🧠 Method
-
-### 🔹 Framework Overview
+## 🧠 Framework Overview
 
 
 <div align="center">
-  <img src="assets/framework.pdf" width="100%">
+  <img src="assets/framework.png" width="100%">
 </div>
 
 
